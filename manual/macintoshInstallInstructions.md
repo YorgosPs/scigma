@@ -4,11 +4,7 @@
 
 ![download scigma](guideImages/mac1.png)
 
-2. Open Command Prompt 
-
-3. Go to scigma directory
-
-4. Type python runscigma.py
+2. Run runscigma.py , which is located in the extracted folder.
 
 5. Download the examples.zip file from the [the releases page](https://github.com/scigma/scigma/releases) which is under the previous version (SCIGMA 0.9.2) and extract the folder.
 
