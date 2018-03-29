@@ -27,7 +27,7 @@
 
 ![scigma](guideImages/running.png)
 
-6. Download the Examples Files from the [the releases page](https://github.com/scigma/scigma/releases); from the previous version (SCIGMA 0.9.2)
+6. Download the Examples file from the [the releases page](https://github.com/scigma/scigma/releases) which is under the previous version (SCIGMA 0.9.2)
 
 7. Unzip the Examples folder. 
 
