@@ -8,7 +8,7 @@
 
 3. Go to scigma directory
 
-4.Type python runscigma.py
+4. Type python runscigma.py
 
 5. Download the examples.zip file from the [the releases page](https://github.com/scigma/scigma/releases) which is under the previous version (SCIGMA 0.9.2) and extract the folder.
 
