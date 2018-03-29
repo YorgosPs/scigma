@@ -1,6 +1,6 @@
 # Install on Macintosh
 
-1. Downlad the latest scigma-osx-0.9.3.zip from [the reseases page](https://github.com/scigma/scigma/releases) and extract its contents in a preferred directory.
+1. Downlad the latest scigma-osx-0.9.3.zip file from [the reseases page](https://github.com/scigma/scigma/releases) and extract its contents in a preferred directory.
 
 ![download scigma](guideImages/mac1.png)
 
