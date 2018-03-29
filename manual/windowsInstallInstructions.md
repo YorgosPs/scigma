@@ -31,7 +31,7 @@
 
 ![load file](guideImages/examples.png)
 
-8. Type 'load' on the SCIGMA console and browse to select a file in the Examples folder.
+7. Type 'load' on the SCIGMA console and browse to select a file in the Examples folder.
 
 ![load file](guideImages/load.png)
 
