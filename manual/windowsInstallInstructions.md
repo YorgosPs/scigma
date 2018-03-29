@@ -5,7 +5,7 @@
 
     ![download python](guideImages/pyorg1.png)
     * Don't download Python 3.X.
-    * Don't download the x86 (32-bit) installer.
+    * Don't download the x86 (32-bit) installer, unless you have a 32 bit version of Windows.
     * [Anaconda Python](https://www.anaconda.com/download/#windows) will also work, with the same caveats. The download is bigger, but this is a better option if you're interested in learning more about Python programming.
 
 2. Run the installer; default answers to everything are fine.
