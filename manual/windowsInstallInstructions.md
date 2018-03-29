@@ -15,6 +15,7 @@
 3. Download the latest scigma-win64-X.zip file from [the releases page](https://github.com/scigma/scigma/releases); extract the scigma-win64-X folder somewhere convenient.
 
     * Note that this is _not_ the scigma-master.zip file you may have downloaded using the "Clone or download" button on the [repository main page](https://github.com/scigma/scigma).
+    * Note that if you have a different Windows version (32bit), you have to choose the respective Python installer and scigma zip file. 
 
     ![download SCIGMA](guideImages/scigma0.png)
 
