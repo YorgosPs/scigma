@@ -31,5 +31,7 @@
 
 8. Type 'load' on the SCIGMA console and browse to select a file in the Examples folder.
 
+![load file](guideImages/load.png)
+
 For more information, download manual.pdf under the 0.9.2 version at [the releases page](https://github.com/scigma/scigma/releases).
 
